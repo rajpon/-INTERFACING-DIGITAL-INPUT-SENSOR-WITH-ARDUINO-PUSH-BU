@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE : 16/02/2024
+## NAME : PONRAJ M																			             
+## ROLLNUMBER : 212221080055
+## DEPARTMENT : MECHANICAL 
 
 
 ## AIM:
@@ -63,7 +63,8 @@ FIGURE -03
 
 ## PROGRAM 
  
- 
+ ![image](https://github.com/rajpon/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BU/assets/161028709/fdad0280-b242-41d1-9fc3-5dbc9ba16aeb)
+
 
 
 
@@ -81,5 +82,6 @@ FIGURE -03
 
 ## OUTPUT OF SIMULATION :
 
-[My image](username.github.com/repository/img/image.jpg)
+![image](https://github.com/rajpon/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BU/assets/161028709/6fdf2c09-3369-4ef8-b53a-45ea9abc7e61)
+![image](https://github.com/rajpon/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BU/assets/161028709/2cb6b563-6570-4e99-81fe-bebb0298dc2a)
 
